@@ -1,0 +1,8 @@
+nmap3
+pandas
+requests
+streamlit
+openpyxl
+python-docx
+apscheduler
+pyinstaller
